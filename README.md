@@ -1,2 +1,2 @@
-# numberAnimation
-give number animations
+# number-animation
+number-animation
